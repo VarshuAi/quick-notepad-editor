@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Write temporary scripts, notes, or lists instantly in your browser.
+  name: quick-notepad-editor version: 1.0 type: Repository author: VarshuAi description: >   Write temporary scripts, notes, or lists instantly in your browser. primary_tech: CSS
 primary_tech: CSS
 ```
 
